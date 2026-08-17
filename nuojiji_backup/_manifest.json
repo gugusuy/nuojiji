@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1786978700087,
+  "timestamp": 1786978908817,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -109,7 +109,9 @@
     "mapRasterCache": true,
     "customGames": true,
     "customWidgetState": true,
-    "whiteDogData": true
+    "whiteDogData": true,
+    "isekaiSaves": true,
+    "pomodoroData": true
   },
   "source": "auto",
   "inProgress": true
