@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1787318072748,
+  "timestamp": 1787318079720,
   "appVersion": "6.9.30 (2026.07.20)",
   "tables": [
     "characters",
@@ -89,7 +89,8 @@
     "summaryEntries": true,
     "callLogs": true,
     "roleStickers": true,
-    "tmSessions": true
+    "tmSessions": true,
+    "multiSceneSessions": true
   },
   "inProgress": true
 }
