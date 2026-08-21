@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1787317189000,
+  "timestamp": 1787317196805,
   "appVersion": "6.9.30 (2026.07.20)",
   "tables": [
     "characters",
@@ -102,7 +102,8 @@
     "ttsAudio": true,
     "forumData": true,
     "calendarData": true,
-    "pomodoroSessions": true
+    "pomodoroSessions": true,
+    "couplesData": true
   },
   "inProgress": true
 }
