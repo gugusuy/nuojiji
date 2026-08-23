@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1787469900705,
+  "timestamp": 1787469905722,
   "appVersion": "6.9.30 (2026.07.20)",
   "tables": [
     "characters",
@@ -110,7 +110,8 @@
     "pomodoroSessions": true,
     "couplesData": true,
     "imageStore": true,
-    "stickerStore": true
+    "stickerStore": true,
+    "quickReplies": true
   },
   "inProgress": true
 }
