@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1787474529354,
+  "timestamp": 1787474536533,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -135,7 +135,8 @@
     "naiVibeCache": true,
     "_migration": true,
     "memory": true,
-    "friendRequests": true
+    "friendRequests": true,
+    "mapRasterCache": true
   },
   "source": "auto",
   "inProgress": true
