@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1788169048976,
+  "timestamp": 1788169052007,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -171,5 +171,5 @@
     "coReadQuotes": true
   },
   "source": "auto",
-  "inProgress": true
+  "inProgress": false
 }
