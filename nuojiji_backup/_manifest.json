@@ -1,6 +1,6 @@
 {
   "version": 7,
-  "timestamp": 1792297444411,
+  "timestamp": 1792299286114,
   "appVersion": "",
   "source": "auto",
   "device": "app-android",
@@ -233,10 +233,15 @@
     "_migration": true
   },
   "complete": true,
-  "lastCompleteAt": 1792297444411,
+  "lastCompleteAt": 1792299286114,
   "secretsIncluded": false,
   "inProgress": false,
   "files": {
+    "characters.json": {
+      "h": "g:b82df2c618b14ae7fd51994f5c40b5e1a559ab07",
+      "gz": false,
+      "b": "b82df2c618b14ae7fd51994f5c40b5e1a559ab07"
+    },
     "friendRequests.json": {
       "h": "g:0637a088a01e8ddab3bf3fa98dbe804cbde1a0dc",
       "gz": false,
@@ -246,11 +251,6 @@
       "h": "g:01237ffd0719d95c517cd71358b5f6907ae32bda",
       "gz": false,
       "b": "01237ffd0719d95c517cd71358b5f6907ae32bda"
-    },
-    "characters.json": {
-      "h": "g:b82df2c618b14ae7fd51994f5c40b5e1a559ab07",
-      "gz": false,
-      "b": "b82df2c618b14ae7fd51994f5c40b5e1a559ab07"
     },
     "stickers.json": {
       "h": "g:cc5737859afcd5d140179b2b1e5bd5848ad19a05",
@@ -267,20 +267,30 @@
       "gz": false,
       "b": "444fab8651e9b74d7ebb3dbe59c1b95bbe97b422"
     },
-    "_localStorage.json": {
-      "h": "g:68127a2b5ae4f5db24aa780d23908fe838f37043",
+    "globalSettings.json": {
+      "h": "g:b61d8476d5d200829cb593e642544ba1336ad7f8",
       "gz": false,
-      "b": "68127a2b5ae4f5db24aa780d23908fe838f37043"
+      "b": "b61d8476d5d200829cb593e642544ba1336ad7f8"
     },
     "userPosts.json": {
       "h": "g:5b297b3813c0de9ee7184f842f74c5c5d55ce016",
       "gz": false,
       "b": "5b297b3813c0de9ee7184f842f74c5c5d55ce016"
     },
-    "globalSettings.json": {
-      "h": "g:4226826a198c122ec38d87215d54268f5b4f2cf7",
+    "chatSettings.json": {
+      "h": "g:befe2a95dec0355b1f2ff73079a24108b8cd7a02",
       "gz": false,
-      "b": "4226826a198c122ec38d87215d54268f5b4f2cf7"
+      "b": "befe2a95dec0355b1f2ff73079a24108b8cd7a02"
+    },
+    "userState.json": {
+      "h": "g:fd830e484123a882f8712bbff779c2b1f6a3f2b7",
+      "gz": false,
+      "b": "fd830e484123a882f8712bbff779c2b1f6a3f2b7"
+    },
+    "_localStorage.json": {
+      "h": "g:d28f70026a7b811ac0540b3e4ae3ce454c5a5513",
+      "gz": false,
+      "b": "d28f70026a7b811ac0540b3e4ae3ce454c5a5513"
     },
     "messages_chunk_0.json": {
       "h": "g:56fbfd6d473a6b324cedae9973c6941bf0d06c71",
@@ -322,11 +332,6 @@
       "gz": false,
       "b": "55f3d6f0bf9e76092ff59063e679b86c41d64c72"
     },
-    "userState.json": {
-      "h": "g:d4d76117617c39533b2f2bf2a10365ce5322d0d6",
-      "gz": false,
-      "b": "d4d76117617c39533b2f2bf2a10365ce5322d0d6"
-    },
     "messages_chunk_8.json": {
       "h": "g:520447a66b003cc2768cd9d3ae1c319ecff0b4ff",
       "gz": false,
@@ -351,11 +356,6 @@
       "h": "g:b582b3355967d5b5b0da5981741c2478f2bbfcaa",
       "gz": false,
       "b": "b582b3355967d5b5b0da5981741c2478f2bbfcaa"
-    },
-    "chatSettings.json": {
-      "h": "g:befe2a95dec0355b1f2ff73079a24108b8cd7a02",
-      "gz": false,
-      "b": "befe2a95dec0355b1f2ff73079a24108b8cd7a02"
     },
     "messages_chunk_13.json": {
       "h": "g:f547b5db34dfe609eb9eb240f25d9659ef5d328d",
@@ -452,20 +452,15 @@
       "gz": false,
       "b": "ede5f85ccddff00042f1e03eae0160a147a59295"
     },
-    "favorites.json": {
-      "h": "g:0637a088a01e8ddab3bf3fa98dbe804cbde1a0dc",
-      "gz": false,
-      "b": "0637a088a01e8ddab3bf3fa98dbe804cbde1a0dc"
-    },
     "messages_chunk_32.json": {
       "h": "g:d6b2a71b69d01e20ba3865c2665e0a396f5b74cd",
       "gz": false,
       "b": "d6b2a71b69d01e20ba3865c2665e0a396f5b74cd"
     },
-    "memory.json": {
-      "h": "g:2f60813b04dcf908618e4868a0e5ad65b9b15607",
+    "favorites.json": {
+      "h": "g:0637a088a01e8ddab3bf3fa98dbe804cbde1a0dc",
       "gz": false,
-      "b": "2f60813b04dcf908618e4868a0e5ad65b9b15607"
+      "b": "0637a088a01e8ddab3bf3fa98dbe804cbde1a0dc"
     },
     "callLogs.json": {
       "h": "g:c171f33afcf6ce02344e1b911f68d28e73b24971",
@@ -476,6 +471,11 @@
       "h": "g:0637a088a01e8ddab3bf3fa98dbe804cbde1a0dc",
       "gz": false,
       "b": "0637a088a01e8ddab3bf3fa98dbe804cbde1a0dc"
+    },
+    "memory.json": {
+      "h": "g:8eceb0fe41a0470eb901c857b752bacbb00cd220",
+      "gz": false,
+      "b": "8eceb0fe41a0470eb901c857b752bacbb00cd220"
     },
     "tmStories_chunk_0.json": {
       "h": "g:b51f53093121c311dc92cc706bba35d6c8cf1308",
@@ -492,6 +492,11 @@
       "gz": false,
       "b": "f73e7b276715afb1a615741d098ba1d7bd7ef1cf"
     },
+    "summaryEntries.json": {
+      "h": "g:c67aa6d54e13bfcf6653eeddc40b909ac912e52f",
+      "gz": false,
+      "b": "c67aa6d54e13bfcf6653eeddc40b909ac912e52f"
+    },
     "tmStories_chunk_3.json": {
       "h": "g:721ffa2a0449ea6e0d21078c170c5329f9fda24f",
       "gz": false,
@@ -501,6 +506,11 @@
       "h": "g:9b4b91a2d86faf1b7c49bb6a50b619332e786286",
       "gz": false,
       "b": "9b4b91a2d86faf1b7c49bb6a50b619332e786286"
+    },
+    "tmSessions.json": {
+      "h": "g:957532ebb94668feab5e5cd9f568eb152e7ff2e5",
+      "gz": false,
+      "b": "957532ebb94668feab5e5cd9f568eb152e7ff2e5"
     },
     "multiSceneSessions.json": {
       "h": "g:0637a088a01e8ddab3bf3fa98dbe804cbde1a0dc",
@@ -626,11 +636,6 @@
       "h": "g:050d20ba005477c3fb454f84803b14b137a62ac3",
       "gz": false,
       "b": "050d20ba005477c3fb454f84803b14b137a62ac3"
-    },
-    "tmSessions.json": {
-      "h": "g:fc27b5b3472817e6ff97eb3e3a6ed0525157c34e",
-      "gz": false,
-      "b": "fc27b5b3472817e6ff97eb3e3a6ed0525157c34e"
     },
     "ttsAudio_chunk_14.json": {
       "h": "g:a4b4fb78949edbcd2a4e2b10ea809709fbbfa54c",
@@ -907,11 +912,6 @@
       "gz": false,
       "b": "37ce6fe8288fbf8488586aabdc8eb218ed76604f"
     },
-    "summaryEntries.json": {
-      "h": "g:ebe16ce0aab7e24dc8dbe98a44d1c7522e18f8aa",
-      "gz": false,
-      "b": "ebe16ce0aab7e24dc8dbe98a44d1c7522e18f8aa"
-    },
     "ttsAudio_chunk_69.json": {
       "h": "g:0e533db04a37e396a5dc16b2cb2a672350291318",
       "gz": false,
@@ -1092,6 +1092,16 @@
       "gz": false,
       "b": "3bf41e4d5f871e539da31f07110d59e95a97bcec"
     },
+    "xinsheng.json": {
+      "h": "g:8052c055002016d4fd8184e92b01281148410d55",
+      "gz": false,
+      "b": "8052c055002016d4fd8184e92b01281148410d55"
+    },
+    "xinshengRounds.json": {
+      "h": "g:6c631074e81750f37e6f9c8039ce6257da67cd77",
+      "gz": false,
+      "b": "6c631074e81750f37e6f9c8039ce6257da67cd77"
+    },
     "pomodoroSessions.json": {
       "h": "g:0637a088a01e8ddab3bf3fa98dbe804cbde1a0dc",
       "gz": false,
@@ -1107,20 +1117,10 @@
       "gz": false,
       "b": "feb6c55bacdd703711064a470de2d096e278023a"
     },
-    "xinsheng.json": {
-      "h": "g:8052c055002016d4fd8184e92b01281148410d55",
-      "gz": false,
-      "b": "8052c055002016d4fd8184e92b01281148410d55"
-    },
-    "xinshengRounds.json": {
-      "h": "g:6c631074e81750f37e6f9c8039ce6257da67cd77",
-      "gz": false,
-      "b": "6c631074e81750f37e6f9c8039ce6257da67cd77"
-    },
     "tmStories_chunk_5.json": {
-      "h": "g:245c54da703043365bcb4b60d43e43609f7cd781",
+      "h": "g:b1c0264ed8fff3fffde62a2502a99e96a19990da",
       "gz": false,
-      "b": "245c54da703043365bcb4b60d43e43609f7cd781"
+      "b": "b1c0264ed8fff3fffde62a2502a99e96a19990da"
     },
     "imageStore_chunk_1.json": {
       "h": "g:2cf02f85184594d81b47c0a19f2b40f1cb757b06",
@@ -1316,6 +1316,11 @@
       "h": "g:026592dda88f009a4d84027ba12ce9f1e394b864",
       "gz": false,
       "b": "026592dda88f009a4d84027ba12ce9f1e394b864"
+    },
+    "thinkingStore_chunk_1.json": {
+      "h": "g:db1e24c02c87f40d3407226f485c371bd1d70acd",
+      "gz": false,
+      "b": "db1e24c02c87f40d3407226f485c371bd1d70acd"
     },
     "commitments.json": {
       "h": "g:0637a088a01e8ddab3bf3fa98dbe804cbde1a0dc",
@@ -1537,15 +1542,10 @@
       "gz": false,
       "b": "a10c50c5da7e14d97f2384f4a9263c5bf4a6fd31"
     },
-    "thinkingStore_chunk_1.json": {
-      "h": "g:db1e24c02c87f40d3407226f485c371bd1d70acd",
-      "gz": false,
-      "b": "db1e24c02c87f40d3407226f485c371bd1d70acd"
-    },
     "rowFieldItems.json": {
-      "h": "g:6f28d19a492837876c9cac9bca61317e2401bf0f",
+      "h": "g:e1f9ce8d1736e72ba58ec87c3ecb1a71ede351e8",
       "gz": false,
-      "b": "6f28d19a492837876c9cac9bca61317e2401bf0f"
+      "b": "e1f9ce8d1736e72ba58ec87c3ecb1a71ede351e8"
     }
   }
 }
